@@ -59,7 +59,7 @@ a:hover {color:#0379C4}
 	opacity: 0.7;
 }
 .related-post-style-3 .related-post-item-thumbnail {
-	display: block;
+	display: none;
 	max-height: none;
 	background-color: transparent;
 	border: none;
